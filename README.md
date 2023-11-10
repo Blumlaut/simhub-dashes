@@ -1,2 +1,2 @@
-# simhub-dashes
-blumlaut's simhub dashes, in one place
+# blumlaut's simhub dashes
+a collection of dashes i made
