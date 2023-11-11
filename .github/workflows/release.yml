@@ -1,0 +1,26 @@
+name: Create release
+
+on:
+  release:
+    types:
+      - created
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@master
+
+    - name: Zip Folders
+      run: cd IC-7 && zip -r IC-7.simhubdash . && cd .. \
+           cd ADU5 && zip -r ADU5.simhubdash . && cd .. 
+
+    - name: Release
+      uses: softprops/action-gh-release@v1
+      if: startsWith(github.ref, 'refs/tags/')
+      with:
+        files: IC-7/IC-7.simhubdash,ADU5/ADU5.simhubdash
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
