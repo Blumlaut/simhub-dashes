@@ -4,7 +4,7 @@
   "Title": "Haltech IC-7",
   "Description": null,
   "Author": "blumlaut",
-  "ScreenCount": 8.0,
+  "ScreenCount": 9.0,
   "InGameScreensIndexs": [
     0,
     1,
@@ -13,7 +13,7 @@
     4,
     5,
     6,
-    7
+    8
   ],
   "IdleScreensIndexs": [
     0,
@@ -23,7 +23,7 @@
     4,
     5,
     6,
-    7
+    8
   ],
   "MainPreviewIndex": 0,
   "IsOverlay": false,
