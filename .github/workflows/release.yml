@@ -16,8 +16,8 @@ jobs:
 
     - name: Zip Folders
       run: |
-           cd IC-7 && zip -r IC-7.simhubdash . && cd .. 
-           cd ADU5 && zip -r ADU5.simhubdash . && cd .. 
+          zip -r IC-7.simhubdash IC-7/
+          zip -r ADU5.simhubdash ADU5/
 
     - uses: "marvinpinto/action-automatic-releases@latest"
       with:
@@ -26,4 +26,4 @@ jobs:
         prerelease: false
         title: "Latest Build"
         files: |
-          */*.simhubdash
+          *.simhubdash
