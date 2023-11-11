@@ -1,0 +1,34 @@
+{
+  "SimHubVersion": "9.1.9",
+  "Category": null,
+  "Title": "Haltech IC-7",
+  "Description": null,
+  "Author": "blumlaut",
+  "ScreenCount": 7.0,
+  "InGameScreensIndexs": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "IdleScreensIndexs": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "MainPreviewIndex": 0,
+  "IsOverlay": false,
+  "Width": 1280.0,
+  "Height": 720.0,
+  "OverlaySizeWarning": true,
+  "MetadataVersion": 2.0,
+  "EnableOnDashboardMessaging": true,
+  "PitScreensIndexs": []
+}
