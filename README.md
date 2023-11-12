@@ -20,15 +20,15 @@ The Haltech IC-7 Display Unit for SimHub, includes (as of now) 8 screens:
 - RPM Gauges up to 10000rpm (switches automatically when car redline is above 8000)
 - RPM Flasher (flashes outside border)
 - ABS, TC, TC2, Brake Bias, Engine Map Pop-Ups
-- Yellow&Blue Flag Popups
+- Yellow,Blue,White,Green,Checkered Flag Popups
 - Overrev, Low Fuel, Pit Limiter, Overheat warning
 - Supports custom units (Fahrenheit, PSI, miles) on digital items
-- Aggressive Optimisation
+- Heavily Optimised
 
 ### Supported Games
 | Game | Status |
 | --- | --- |
-| Assetto Corsa | Working, but missing CSP data as these are not read by simhub |
+| Assetto Corsa | Working, but missing CSP data (Oil, Water Temp..) |
 | Assetto Corsa Competizione | Fully Working except for Oil Temp |
 | BeamNG | Fully Working except for Tyre Data (game does not provide any) |
 | Forza Horizon 5 | Working, but game does not report a lot of data |
@@ -37,7 +37,7 @@ If your game is not listed, please create an issue and [provide a replay!](https
 
 ## ECUMaster ADU5
 
-ECUMaster ADU5 Display, inclides 4 Pages, heavy WIP
+ECUMaster ADU5 Display, inclides 4 Pages, WIP
 
 ![image](https://github.com/Blumlaut/simhub-dashes/assets/13604413/0c0a6ef2-47c8-4db8-a104-da6b9fa6bccf)
 ![image](https://github.com/Blumlaut/simhub-dashes/assets/13604413/28f4c100-741b-46eb-8d5a-0fcb3c1f43b0)
