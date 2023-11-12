@@ -1,7 +1,7 @@
 # blumlaut's simhub dashes
 a collection of dashes i made
 
-If you dont care about the source files, download the ".simhubdash" files from the releases section
+If you dont care about the source files, download the ".simhubdash" files from the [releases](https://github.com/Blumlaut/simhub-dashes/releases/latest) section
 
 
 ## Haltech IC-7
@@ -37,7 +37,7 @@ If your game is not listed, please create an issue and [provide a replay!](https
 
 ## ECUMaster ADU5
 
-ECUMaster ADU5 Display, inclides 4 Pages, WIP
+ECUMaster ADU5 Display, includes 4 Pages, WIP
 
 ![image](https://github.com/Blumlaut/simhub-dashes/assets/13604413/0c0a6ef2-47c8-4db8-a104-da6b9fa6bccf)
 ![image](https://github.com/Blumlaut/simhub-dashes/assets/13604413/28f4c100-741b-46eb-8d5a-0fcb3c1f43b0)
