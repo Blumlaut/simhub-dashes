@@ -13,6 +13,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@master
+    - uses: rlespinasse/shortify-git-revision@v1
+      with:
+        name: GITHUB_SHA
 
     - name: Zip Folders
       run: |
@@ -23,6 +26,7 @@ jobs:
       with:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         prerelease: false
+        automatic_release_tag: "${{ GITHUB_SHA_SHORT }}"
         title: "Latest Build"
         files: |
           *.simhubdash
