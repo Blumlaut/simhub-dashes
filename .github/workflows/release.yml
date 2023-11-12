@@ -26,6 +26,6 @@ jobs:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         prerelease: false
         automatic_release_tag: "${{ env.GITHUB_SHA_SHORT }}"
-        title: "Latest Build"
+        title: "${{ env.GITHUB_SHA_SHORT }}"
         files: |
           *.simhubdash
