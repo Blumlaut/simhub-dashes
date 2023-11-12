@@ -22,7 +22,7 @@ The Haltech IC-7 Display Unit for SimHub, includes (as of now) 8 screens:
 - ABS, TC, TC2, Brake Bias, Engine Map Pop-Ups
 - Yellow,Blue,White,Green,Checkered Flag Popups
 - Overrev, Low Fuel, Pit Limiter, Overheat warning
-- Supports custom units (Fahrenheit, PSI, miles) on digital items
+- Supports Multiple Units (Fahrenheit, PSI, MPH)
 - Heavily Optimised
 
 ### Supported Games
