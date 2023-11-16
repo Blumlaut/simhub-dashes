@@ -48,3 +48,16 @@ ECUMaster ADU5 Display, includes 4 Pages, WIP
 - RPM Gauges up to 8000RPM
 - G-Force Display
 
+## Porsche 992 GT3
+
+Porsche 992 GT3-R Dashboard, includes all features available in ACC
+
+![DSC09976](https://github.com/Blumlaut/simhub-dashes/assets/13604413/287d391f-6331-4ce6-9b7f-98a8c60ec80f)
+![DSC09977](https://github.com/Blumlaut/simhub-dashes/assets/13604413/0d91329d-ff4e-43b2-9c0d-e1bdb8ec8301)
+
+### Features
+- Tablet Optimized (resolution can be changed to act as an overlay)
+- (Almost) Full Support for ACC Data
+- 4 Pages including Brake Temp, Fuel Data, Time Diff, Pred. Times etc.
+- Realistic Brake Bias, Pit Limiter and Fuel Alarm Pop-Ups
+- ACC Overlay-Style shift alarm
