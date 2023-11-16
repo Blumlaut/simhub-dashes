@@ -4,5 +4,6 @@ pause
 
 mklink /D /J "IC-7" "C:\Program Files (x86)\SimHub\DashTemplates\IC-7"
 mklink /D /J "ADU5" "C:\Program Files (x86)\SimHub\DashTemplates\ADU5"
+mklink /D /J "Porsche 992 GT3" "C:\Program Files (x86)\SimHub\DashTemplates\Porsche 992 GT3"
 
 pause
