@@ -21,6 +21,7 @@ jobs:
           zip -r IC-7.simhubdash IC-7/
           zip -r ADU5.simhubdash ADU5/
           zip -r "Porsche 992 GT3.simhubdash" "Porsche 992 GT3"/
+          zip -r "Porsche 992 GT3 Cup.simhubdash" "Porsche 992 GT3 Cup"/
 
     - uses: "marvinpinto/action-automatic-releases@latest"
       with:
