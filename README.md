@@ -3,6 +3,8 @@ a collection of dashes i made
 
 If you dont care about the source files, download the ".simhubdash" files from the [releases](https://github.com/Blumlaut/simhub-dashes/releases/latest) section
 
+> [!NOTE]  
+> These Dashes are fan-made and are not official or licensed in any capacity, i am not affiliated with Haltech, ECUMaster, Porsche or any other brands listed here, i am simply a fan of their work.
 
 ## Haltech IC-7
 
