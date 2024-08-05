@@ -34,6 +34,7 @@ The Haltech IC-7 Display Unit for SimHub, includes (as of now) 8 screens:
 | Assetto Corsa Competizione | Fully Working except for Oil Temp |
 | BeamNG | Fully Working except for Tyre Data (game does not provide any) |
 | Forza Horizon 5 | Working, but game does not report a lot of data |
+| Le Mans Ultimate | Reportedly working, may be missing some data the game does not provide |
 
 If your game is not listed, please create an issue and [provide a replay!](https://github.com/Blumlaut/simhub-dashes/issues/new)
 
