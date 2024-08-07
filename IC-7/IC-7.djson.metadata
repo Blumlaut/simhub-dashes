@@ -1,10 +1,10 @@
 {
-  "SimHubVersion": "9.1.14",
+  "SimHubVersion": "9.3.1",
   "Category": null,
   "Title": "Haltech IC-7",
   "Description": null,
   "Author": "blumlaut",
-  "ScreenCount": 9.0,
+  "ScreenCount": 10.0,
   "InGameScreensIndexs": [
     0,
     1,
@@ -13,7 +13,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "IdleScreensIndexs": [
     0,
@@ -23,7 +24,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "MainPreviewIndex": 0,
   "IsOverlay": false,
