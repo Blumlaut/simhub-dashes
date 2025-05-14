@@ -8,15 +8,18 @@ If you dont care about the source files, download the ".simhubdash" files from t
 
 ## Haltech IC-7
 
-The Haltech IC-7 Display Unit for SimHub, includes (as of now) 8 screens:
+The Haltech IC-7 Display Unit for SimHub, includes 9 screens:
 ![image](https://github.com/Blumlaut/simhub-dashes/assets/13604413/3e730fba-7159-4db0-b09c-bbc0959a4b06)
 ![image](https://github.com/Blumlaut/simhub-dashes/assets/13604413/d8d494b4-bc1c-4374-97bd-4e0052e57cf0)
 ![image](https://github.com/Blumlaut/simhub-dashes/assets/13604413/33b3f2c6-ce5a-4a1f-949b-962efd3b4afb)
 ![image](https://github.com/Blumlaut/simhub-dashes/assets/13604413/fe3e2756-d3f9-4f1d-b427-84e50a134884)
+**New! Classic Screen**
+![image](https://github.com/user-attachments/assets/b8c1ecdf-49ff-4d72-9318-7c32f98a81ea)
 ![image](https://github.com/Blumlaut/simhub-dashes/assets/13604413/7f49ac6f-f84e-4598-929f-ec5cca748673)
 ![image](https://github.com/Blumlaut/simhub-dashes/assets/13604413/27843138-aefb-4627-873c-47d1b8e0e413)
 ![image](https://github.com/Blumlaut/simhub-dashes/assets/13604413/c8cb1bb9-38c6-4180-b32b-79593b128c23)
 ![image](https://github.com/Blumlaut/simhub-dashes/assets/13604413/eb207f7d-80d0-4d15-8a3e-c865b4828b6a)
+
 
 ### Features
 - RPM Gauges up to 10000rpm (switches automatically when car redline is above 8000)
