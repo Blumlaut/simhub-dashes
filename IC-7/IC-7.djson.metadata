@@ -9,7 +9,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "IdleScreensIndexs": [
     0,
@@ -20,7 +21,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "MainPreviewIndex": 0,
   "IsOverlay": false,
@@ -28,7 +30,7 @@
   "MetadataVersion": 2.0,
   "EnableOnDashboardMessaging": true,
   "PitScreensIndexs": [],
-  "SimHubVersion": "9.8.1",
+  "SimHubVersion": "9.8.2",
   "Category": null,
   "Title": "Haltech IC-7",
   "Description": null,
