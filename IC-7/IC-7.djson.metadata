@@ -1,9 +1,4 @@
 {
-  "SimHubVersion": "9.4.1",
-  "Category": null,
-  "Title": "Haltech IC-7",
-  "Description": null,
-  "Author": "blumlaut",
   "ScreenCount": 11.0,
   "InGameScreensIndexs": [
     0,
@@ -29,10 +24,16 @@
   ],
   "MainPreviewIndex": 0,
   "IsOverlay": false,
-  "Width": 1280.0,
-  "Height": 720.0,
   "OverlaySizeWarning": true,
   "MetadataVersion": 2.0,
   "EnableOnDashboardMessaging": true,
-  "PitScreensIndexs": []
+  "PitScreensIndexs": [],
+  "SimHubVersion": "9.8.1",
+  "Category": null,
+  "Title": "Haltech IC-7",
+  "Description": null,
+  "Author": "blumlaut",
+  "Width": 1280.0,
+  "Height": 720.0,
+  "DashboardVersion": ""
 }

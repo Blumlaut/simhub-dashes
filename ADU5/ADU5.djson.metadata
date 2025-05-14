@@ -1,9 +1,4 @@
 {
-  "SimHubVersion": "9.4.1",
-  "Category": null,
-  "Title": "ECUMaster ADU5",
-  "Description": "",
-  "Author": "blumlaut & T0rqu3_",
   "ScreenCount": 4.0,
   "InGameScreensIndexs": [
     0,
@@ -19,8 +14,6 @@
   ],
   "MainPreviewIndex": 0,
   "IsOverlay": false,
-  "Width": 1280.0,
-  "Height": 720.0,
   "OverlaySizeWarning": true,
   "MetadataVersion": 2.0,
   "EnableOnDashboardMessaging": true,
@@ -29,5 +22,13 @@
     1,
     2,
     3
-  ]
+  ],
+  "SimHubVersion": "9.8.1",
+  "Category": null,
+  "Title": "ECUMaster ADU5",
+  "Description": "",
+  "Author": "blumlaut & T0rqu3_",
+  "Width": 1280.0,
+  "Height": 720.0,
+  "DashboardVersion": ""
 }

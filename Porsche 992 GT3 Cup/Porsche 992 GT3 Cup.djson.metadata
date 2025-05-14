@@ -1,9 +1,4 @@
 {
-  "SimHubVersion": "9.1.11",
-  "Category": null,
-  "Title": "Porsche 992 GT3 Cup",
-  "Description": null,
-  "Author": "blumlaut",
   "ScreenCount": 3.0,
   "InGameScreensIndexs": [
     0,
@@ -17,10 +12,16 @@
   ],
   "MainPreviewIndex": 0,
   "IsOverlay": false,
-  "Width": 1820.0,
-  "Height": 1080.0,
   "OverlaySizeWarning": true,
   "MetadataVersion": 2.0,
   "EnableOnDashboardMessaging": true,
-  "PitScreensIndexs": []
+  "PitScreensIndexs": [],
+  "SimHubVersion": "9.8.1",
+  "Category": null,
+  "Title": "Porsche 992 GT3 Cup",
+  "Description": null,
+  "Author": "blumlaut",
+  "Width": 1820.0,
+  "Height": 1080.0,
+  "DashboardVersion": ""
 }
