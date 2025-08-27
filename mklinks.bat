@@ -3,7 +3,7 @@ echo %cd%
 pause
 
 mklink /D /J "IC-7" "C:\Program Files (x86)\SimHub\DashTemplates\IC-7"
-mklink /D /J "UC-10" "C:\Program Files (x86)\SimHub\DashTemplates\Haltech UC-10"
+mklink /D /J "UC-10" "C:\Program Files (x86)\SimHub\DashTemplates\UC-10"
 mklink /D /J "ADU5" "C:\Program Files (x86)\SimHub\DashTemplates\ADU5"
 mklink /D /J "Porsche 992 GT3" "C:\Program Files (x86)\SimHub\DashTemplates\Porsche 992 GT3"
 mklink /D /J "Porsche 992 GT3 Cup" "C:\Program Files (x86)\SimHub\DashTemplates\Porsche 992 GT3 Cup"
